@@ -8,6 +8,8 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 
 Únicamente se incluyen los enlaces de los servidores o las plataformas oficiales. Si eres dueño de los derechos de emisión de algún canal y quieres que retire su enlace, contáctame.
 
+Esta recopilación de enlaces se basó inicialmente en el trabajo de [TDTChannels](https://github.com/LaQuay/TDTChannels).
+
 ## Canales generalistas
 
 | Canales         | Resolución máxima | Enlaces |
@@ -16,8 +18,8 @@ Si encuentras algún error o deseas añadir algún canal, puedes contactarme o a
 | La 2 | 1024 x 576 | [m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8) - [web](http://www.rtve.es/directo/la-2/)|
 | Antena 3 HD (geolocalizada) | 1920 x 1080 | [m3u8](https://atresplayerp-i.akamaized.net/geoantena3mpp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
 | Antena 3 HD | 1920 x 1080 | [m3u8](https://atresplayerp-i.akamaized.net/antena3mpp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
-| Cuatro HD | 1280 x 720 | [m3u8(1)](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8) - [m3u8(2)](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
-| Telecinco HD | 1280 x 720 | [m3u8(1)](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8) - [m3u8(2)](https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
+| Cuatro HD | 1280 x 720 | [m3u8](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
+| Telecinco HD | 1280 x 720 | [m3u8](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
 | La Sexta HD (geolocalizada) | 1920 x 1080 | [m3u8](https://atresplayerp-i.akamaized.net/geolasextampp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/lasexta/)|
 | La Sexta HD | 1920 x 1080 | [m3u8](https://atresplayerp-i.akamaized.net/lasextampp/bitrate_4.m3u8) - [web](http://www.atresplayer.com/directos/television/lasexta/)|
 
